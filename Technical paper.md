@@ -61,7 +61,7 @@ Further analysis and discussion within the team are recommended to determine if 
 
 ---
 
-*Resource: *
+Resource: 
 
 *https://www.techtarget.com/searchapparchitecture/definition/service-oriented-architecture-SOA#:~:text=SOA%20lets%20service%20run%20on,scaled%20without%20adding%20extra%20pressure.*
 
