@@ -61,7 +61,8 @@ Further analysis and discussion within the team are recommended to determine if 
 
 ---
 
-*Resource: * 
+*Resource: *
+
 *https://www.techtarget.com/searchapparchitecture/definition/service-oriented-architecture-SOA#:~:text=SOA%20lets%20service%20run%20on,scaled%20without%20adding%20extra%20pressure.*
 
 *https://aws.amazon.com/what-is/service-oriented-architecture/#:~:text=Service%2Doriented%20architecture%20(SOA),other%20across%20platforms%20and%20languages.*
