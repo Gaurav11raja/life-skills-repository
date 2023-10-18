@@ -10,10 +10,10 @@ Service-oriented architecture (SOA) is a method of software development that use
 
 ## Characteristics of SOA
 
---They are loosely coupled.
---They support interoperability.
---They are location-transparent
---They are self-contained.
+--*They are loosely coupled.*
+--*They support interoperability.*
+--*They are location-transparent*
+--*They are self-contained.*
 
 ## Benefits of SOA
 
