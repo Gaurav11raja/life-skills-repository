@@ -1,9 +1,10 @@
 # Grit and Growth Mindset
 
-## Summary of the Video
-1. Angela Duckworth describes the significance of grit for success in both education and life. Her research in the Chicago public schools revealed that grittier students are more likely to graduate. Grit, as she defines it, is the ability to learn and achieve success despite facing setbacks.
+## Summary of the Video_01
+- Angela Duckworth describes the significance of grit for success in both education and life. Her research in the Chicago public schools revealed that grittier students are more likely to graduate. Grit, as she defines it, is the ability to learn and achieve success despite facing setbacks.
 
-2. The concept of the growth mindset is explained. According to Stanford professor Carol Dweck, one's mindset plays a crucial role in determining success. Individuals with a growth mindset believe that skills and intelligence can be developed through effort and learning, while those with a fixed mindset think that abilities are innate. Understanding the characteristics of a growth mindset helps individuals identify their own mindset and its impact.
+## Summary of the Video_02
+- The concept of the growth mindset is explained. According to Stanford professor Carol Dweck, one's mindset plays a crucial role in determining success. Individuals with a growth mindset believe that skills and intelligence can be developed through effort and learning, while those with a fixed mindset think that abilities are innate. Understanding the characteristics of a growth mindset helps individuals identify their own mindset and its impact.
 
 ## Internal Locus of Control
 - The internal locus of control refers to the degree to which individuals believe they have control over their lives.
