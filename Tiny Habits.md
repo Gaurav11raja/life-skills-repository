@@ -1,7 +1,7 @@
 # Tiny Habits :-
 
 ## In this video, what was the most interesting story or idea for you?
--The most interesting idea for me is when you know how to create tiny habits, you can change your life forever.
+- The most interesting idea for me is when you know how to create tiny habits, you can change your life forever.
 
 ## How can you use B = MAP to make making new habits easier? What are M, A and P.
 - M=Motivation,A=Ability and p=prompt, According to BJ Fogg if a task is too hard you need high motivation to perform it and for a easy task you need very little motivation so in order to make a new habit you need to shrink it to tiniest possible version so that very little motivation is needed by making this tiny habit you can make a new big habit.
