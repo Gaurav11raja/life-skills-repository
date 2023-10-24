@@ -12,7 +12,7 @@
 ## In this video, what was the most interesting story or idea for you?
 - The most interesting story for me is of British cycling -" In early 2000 British cycling hires Dave Brailslord at that point british cycling had been mediocre. They hire dave to change and he started working on his philosophy that is aggregation of marginal gains means improve 1% in everything that you do and in two year they won tour de franch and in 2012 olympics they won 70% of the total medal available in cycling.
 
-##What is the book's perspective about Identity?
+## What is the book's perspective about Identity?
 - According to book the ultimate form of intrinsic motivation is when a habit becomes parts of our identity.
 
 ## Write about the book's perspective on how to make a habit easier to do?
